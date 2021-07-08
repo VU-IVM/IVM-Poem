@@ -10,11 +10,12 @@ Eric Mortensen & Tristian Stolte
 3
 4
 
-Li Huazhi
-1 
-2
-3
-4
+Huazhi Li
+1 class coding ():
+2 void main
+3 { 
+4	writing poems:)
+5 }	
 
 Henrique Moreno Dumont Goulart
 1
