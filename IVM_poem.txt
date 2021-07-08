@@ -7,7 +7,7 @@ such that we will not twerk
 Eric Mortensen & Tristian Stolte
 1 I am writing some lines
 2 to create a conflict
-3 with the Pull Request of Tristian
+3 with the Pull Request of Tristian.
 4
 
 Li Huazhi
